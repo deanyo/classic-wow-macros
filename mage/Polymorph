@@ -1,0 +1,1 @@
+/run if UnitExists("mouseover")then TargetUnit("mouseover") CastSpellByName("Polymorph(rank 1)") TargetLastTarget() else CastSpellByName("Polymorph(rank 1)") end
