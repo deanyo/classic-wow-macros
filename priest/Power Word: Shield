@@ -1,0 +1,3 @@
+#showtooltip
+/cancelaura Blue Skeletal Horse;
+/cast [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield
