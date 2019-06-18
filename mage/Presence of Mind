@@ -1,0 +1,1 @@
+/run local i=0 t=0 c=CastSpellByName for i=1,40 do if strfind(tostring(GetPlayerBuffTexture(GetPlayerBuff(i))),"Spell_Nature_EnchantArmor") then t=1 end end if t==0 then c("Presence of Mind") else c("Frostbolt(Rank 10)") end
