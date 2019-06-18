@@ -1,2 +1,3 @@
+/cancelaura Blue Skeletal Horse;
 /script SpellStopCasting()
 /cast Counterspell
