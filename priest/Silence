@@ -1,3 +1,4 @@
 #showtooltip
 /cancelaura Blue Skeletal Horse;
+/script SpellStopCasting()
 /cast Silence
