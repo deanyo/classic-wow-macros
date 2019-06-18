@@ -1,0 +1,1 @@
+/run CastSpellByName(IsShiftKeyDown() and "Arcane Explosion(rank 1)" or "Arcane Explosion")
