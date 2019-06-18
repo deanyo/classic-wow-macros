@@ -1,0 +1,4 @@
+#showtooltip
+/cancelaura Blue Skeletal Horse;
+/cancelaura Shadowform;
+/cast [@mouseover,help,nodead][help,nodead][@player] Flash Heal
